@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StringBuilderBenchmarkDemo/1.0.0": {
+        "runtime": {
+          "StringBuilderBenchmarkDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringBuilderBenchmarkDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
