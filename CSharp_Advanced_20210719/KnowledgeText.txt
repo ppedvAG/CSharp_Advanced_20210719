@@ -1,0 +1,6 @@
+Repository Pattern: 
+
+- https://code-maze.com/net-core-web-development-part4/ (Gutes Beispiel für Repository Pattern (ist Erweiterbar), wobei IRepository haääte mehr ISP vertragen önnen)
+- https://github.com/SharpRepository/SharpRepository/blob/develop/SharpRepository.Repository/IRepositoryBase.cs -> Reference zu ISP in bestehenden Projekt
+- https://programmingwithmosh.com/net/common-mistakes-with-the-repository-pattern/
+
