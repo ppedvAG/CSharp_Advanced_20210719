@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\obj\Debug\net5.0\ThreadsAbbrechen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\obj\Debug\net5.0\ThreadsAbbrechen.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\obj\Debug\net5.0\ThreadsAbbrechen.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\obj\Debug\net5.0\ThreadsAbbrechen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\bin\Debug\net5.0\ThreadsAbbrechen.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\bin\Debug\net5.0\ThreadsAbbrechen.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\bin\Debug\net5.0\ThreadsAbbrechen.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\bin\Debug\net5.0\ThreadsAbbrechen.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\bin\Debug\net5.0\ThreadsAbbrechen.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\bin\Debug\net5.0\ref\ThreadsAbbrechen.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\bin\Debug\net5.0\ThreadsAbbrechen.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\obj\Debug\net5.0\ThreadsAbbrechen.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\obj\Debug\net5.0\ref\ThreadsAbbrechen.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\obj\Debug\net5.0\ThreadsAbbrechen.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\obj\Debug\net5.0\ThreadsAbbrechen.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\bin\Debug\net5.0\HelloThreads.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\bin\Debug\net5.0\HelloThreads.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\bin\Debug\net5.0\HelloThreads.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\bin\Debug\net5.0\HelloThreads.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\bin\Debug\net5.0\HelloThreads.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\bin\Debug\net5.0\ref\HelloThreads.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\bin\Debug\net5.0\HelloThreads.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\obj\Debug\net5.0\HelloThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\obj\Debug\net5.0\HelloThreads.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\obj\Debug\net5.0\HelloThreads.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\obj\Debug\net5.0\HelloThreads.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\obj\Debug\net5.0\HelloThreads.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\obj\Debug\net5.0\ref\HelloThreads.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\obj\Debug\net5.0\HelloThreads.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\obj\Debug\net5.0\HelloThreads.genruntimeconfig.cache

@@ -5,7 +5,7 @@ Montag:
 - [x] Benchmark StringBuilder vs +-Operator (bei strings)
 
 Dienstag:
-- [ ] Events / EventHandler/ Actions / Func 
+- [x] Events / EventHandler / Actions / Func 
 - [ ] Threading 
 - [ ] TPL 
 - [ ] async / await 
