@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\bin\Debug\net5.0\TaskContinueSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\bin\Debug\net5.0\TaskContinueSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\bin\Debug\net5.0\TaskContinueSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\bin\Debug\net5.0\TaskContinueSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\bin\Debug\net5.0\TaskContinueSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\bin\Debug\net5.0\ref\TaskContinueSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\bin\Debug\net5.0\TaskContinueSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\obj\Debug\net5.0\TaskContinueSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\obj\Debug\net5.0\TaskContinueSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\obj\Debug\net5.0\TaskContinueSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\obj\Debug\net5.0\TaskContinueSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\obj\Debug\net5.0\TaskContinueSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\obj\Debug\net5.0\ref\TaskContinueSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\obj\Debug\net5.0\TaskContinueSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample\obj\Debug\net5.0\TaskContinueSample.genruntimeconfig.cache

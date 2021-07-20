@@ -6,14 +6,13 @@ Montag:
 
 Dienstag:
 - [x] Events / EventHandler / Actions / Func 
-- [ ] Threading 
-- [ ] TPL 
-- [ ] async / await 
-- [ ] Benchmarktest For-Schleife vs. Parallel.For
+- [x] Threading 
+- [x] TPL 
+- [x] async / await 
+- [x] Benchmarktest For-Schleife vs. Parallel.For
 
 Mittwoch: 
 - [ ] Generics 
-- [ ] async / await 
 - [ ] Reflections 
 - [ ] Plugin-Pattern 
 - [ ] Linq / Lambda 

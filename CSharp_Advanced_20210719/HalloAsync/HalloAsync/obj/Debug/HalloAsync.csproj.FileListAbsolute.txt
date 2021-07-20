@@ -1,0 +1,10 @@
+C:\Meine Kurse\CSharp Fortgeschritten\WinForms_MUC_08052019\HalloAsync\HalloAsync\bin\Debug\HalloAsync.exe.config
+C:\Meine Kurse\CSharp Fortgeschritten\WinForms_MUC_08052019\HalloAsync\HalloAsync\bin\Debug\HalloAsync.exe
+C:\Meine Kurse\CSharp Fortgeschritten\WinForms_MUC_08052019\HalloAsync\HalloAsync\bin\Debug\HalloAsync.pdb
+C:\Meine Kurse\CSharp Fortgeschritten\WinForms_MUC_08052019\HalloAsync\HalloAsync\obj\Debug\HalloAsync.csprojAssemblyReference.cache
+C:\Meine Kurse\CSharp Fortgeschritten\WinForms_MUC_08052019\HalloAsync\HalloAsync\obj\Debug\HalloAsync.Form1.resources
+C:\Meine Kurse\CSharp Fortgeschritten\WinForms_MUC_08052019\HalloAsync\HalloAsync\obj\Debug\HalloAsync.Properties.Resources.resources
+C:\Meine Kurse\CSharp Fortgeschritten\WinForms_MUC_08052019\HalloAsync\HalloAsync\obj\Debug\HalloAsync.csproj.GenerateResource.cache
+C:\Meine Kurse\CSharp Fortgeschritten\WinForms_MUC_08052019\HalloAsync\HalloAsync\obj\Debug\HalloAsync.csproj.CoreCompileInputs.cache
+C:\Meine Kurse\CSharp Fortgeschritten\WinForms_MUC_08052019\HalloAsync\HalloAsync\obj\Debug\HalloAsync.exe
+C:\Meine Kurse\CSharp Fortgeschritten\WinForms_MUC_08052019\HalloAsync\HalloAsync\obj\Debug\HalloAsync.pdb

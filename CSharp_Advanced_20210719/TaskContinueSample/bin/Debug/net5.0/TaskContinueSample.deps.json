@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TaskContinueSample/1.0.0": {
+        "runtime": {
+          "TaskContinueSample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskContinueSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
