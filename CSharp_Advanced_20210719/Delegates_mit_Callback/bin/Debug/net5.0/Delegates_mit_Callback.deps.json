@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Delegates_mit_Callback/1.0.0": {
+        "runtime": {
+          "Delegates_mit_Callback.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegates_mit_Callback/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
