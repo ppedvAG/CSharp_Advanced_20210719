@@ -1,0 +1,11 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\BookStore.Shared\bin\Debug\net5.0\BookStore.Shared.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\BookStore.Shared\bin\Debug\net5.0\BookStore.Shared.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\BookStore.Shared\bin\Debug\net5.0\ref\BookStore.Shared.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\BookStore.Shared\bin\Debug\net5.0\BookStore.Shared.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\BookStore.Shared\obj\Debug\net5.0\BookStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\BookStore.Shared\obj\Debug\net5.0\BookStore.Shared.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\BookStore.Shared\obj\Debug\net5.0\BookStore.Shared.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\BookStore.Shared\obj\Debug\net5.0\BookStore.Shared.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\BookStore.Shared\obj\Debug\net5.0\BookStore.Shared.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\BookStore.Shared\obj\Debug\net5.0\ref\BookStore.Shared.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\BookStore.Shared\obj\Debug\net5.0\BookStore.Shared.pdb

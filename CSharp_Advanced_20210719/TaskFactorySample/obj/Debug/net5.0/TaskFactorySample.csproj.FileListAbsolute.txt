@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactoryS
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\obj\Debug\net5.0\ref\TaskFactorySample.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\obj\Debug\net5.0\TaskFactorySample.pdb
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\obj\Debug\net5.0\TaskFactorySample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\obj\Debug\net5.0\TaskFactorySample.csproj.AssemblyReference.cache

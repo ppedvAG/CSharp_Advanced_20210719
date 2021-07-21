@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflect
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\bin\Debug\net5.0\TrumpTaschenrechner.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\bin\Debug\net5.0\ref\TrumpTaschenrechner.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\bin\Debug\net5.0\TrumpTaschenrechner.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TrumpTaschenrechner\obj\Debug\net5.0\TrumpTaschenrechner.csproj.AssemblyReference.cache

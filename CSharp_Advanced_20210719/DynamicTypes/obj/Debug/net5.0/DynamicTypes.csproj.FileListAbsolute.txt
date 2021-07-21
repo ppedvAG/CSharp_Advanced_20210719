@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\bin\Debug\net5.0\DynamicTypes.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\bin\Debug\net5.0\DynamicTypes.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\bin\Debug\net5.0\DynamicTypes.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\bin\Debug\net5.0\DynamicTypes.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\bin\Debug\net5.0\DynamicTypes.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\bin\Debug\net5.0\ref\DynamicTypes.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\bin\Debug\net5.0\DynamicTypes.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\obj\Debug\net5.0\DynamicTypes.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\obj\Debug\net5.0\DynamicTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\obj\Debug\net5.0\DynamicTypes.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\obj\Debug\net5.0\DynamicTypes.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\obj\Debug\net5.0\DynamicTypes.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\obj\Debug\net5.0\DynamicTypes.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\obj\Debug\net5.0\ref\DynamicTypes.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\obj\Debug\net5.0\DynamicTypes.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\DynamicTypes\obj\Debug\net5.0\DynamicTypes.genruntimeconfig.cache

@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinue
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample_WithParams\obj\Debug\net5.0\ref\TaskContinueSample_WithParams.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample_WithParams\obj\Debug\net5.0\TaskContinueSample_WithParams.pdb
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample_WithParams\obj\Debug\net5.0\TaskContinueSample_WithParams.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskContinueSample_WithParams\obj\Debug\net5.0\TaskContinueSample_WithParams.csproj.AssemblyReference.cache

@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample_
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample_ProgrammInstance\obj\Debug\net5.0\ref\MutexSample_ProgrammInstance.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample_ProgrammInstance\obj\Debug\net5.0\MutexSample_ProgrammInstance.pdb
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample_ProgrammInstance\obj\Debug\net5.0\MutexSample_ProgrammInstance.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample_ProgrammInstance\obj\Debug\net5.0\MutexSample_ProgrammInstance.csproj.AssemblyReference.cache
