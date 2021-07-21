@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SharpVersion72/1.0.0": {
+        "runtime": {
+          "SharpVersion72.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharpVersion72/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

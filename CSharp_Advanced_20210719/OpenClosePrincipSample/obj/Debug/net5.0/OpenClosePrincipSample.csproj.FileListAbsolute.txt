@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\bin\Debug\net5.0\OpenClosePrincipSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\bin\Debug\net5.0\OpenClosePrincipSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\bin\Debug\net5.0\OpenClosePrincipSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\bin\Debug\net5.0\OpenClosePrincipSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\bin\Debug\net5.0\OpenClosePrincipSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\bin\Debug\net5.0\ref\OpenClosePrincipSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\bin\Debug\net5.0\OpenClosePrincipSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\obj\Debug\net5.0\OpenClosePrincipSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\obj\Debug\net5.0\OpenClosePrincipSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\obj\Debug\net5.0\OpenClosePrincipSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\obj\Debug\net5.0\OpenClosePrincipSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\obj\Debug\net5.0\OpenClosePrincipSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\obj\Debug\net5.0\OpenClosePrincipSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\obj\Debug\net5.0\ref\OpenClosePrincipSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\obj\Debug\net5.0\OpenClosePrincipSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\OpenClosePrincipSample\obj\Debug\net5.0\OpenClosePrincipSample.genruntimeconfig.cache

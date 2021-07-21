@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\bin\Debug\net5.0\SingleResponsibiliySample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\bin\Debug\net5.0\SingleResponsibiliySample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\bin\Debug\net5.0\SingleResponsibiliySample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\bin\Debug\net5.0\SingleResponsibiliySample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\bin\Debug\net5.0\SingleResponsibiliySample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\bin\Debug\net5.0\ref\SingleResponsibiliySample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\bin\Debug\net5.0\SingleResponsibiliySample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\obj\Debug\net5.0\SingleResponsibiliySample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\obj\Debug\net5.0\SingleResponsibiliySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\obj\Debug\net5.0\SingleResponsibiliySample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\obj\Debug\net5.0\SingleResponsibiliySample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\obj\Debug\net5.0\SingleResponsibiliySample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\obj\Debug\net5.0\SingleResponsibiliySample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\obj\Debug\net5.0\ref\SingleResponsibiliySample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\obj\Debug\net5.0\SingleResponsibiliySample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SingleResponsibiliySample\obj\Debug\net5.0\SingleResponsibiliySample.genruntimeconfig.cache

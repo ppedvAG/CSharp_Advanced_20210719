@@ -10,18 +10,16 @@ Dienstag:
 - [x] TPL 
 - [x] async / await 
 - [x] Benchmarktest For-Schleife vs. Parallel.For
-
+- [x] Generics 
+- [ ] 
 Mittwoch: 
-- [ ] Generics 
 - [ ] Reflections 
 - [ ] Plugin-Pattern 
 - [ ] Linq / Lambda 
 - [ ] Anonyme Typen + dynamische Typen
-
-
-- Serialisierung (fertig)
-- Erweiterungsmethoden  (fertig) 
-- Operatoren
+- [ ] Serialisierung
+- [ ] Erweiterungsmethoden 
+- [ ] Operatoren
 
 
 

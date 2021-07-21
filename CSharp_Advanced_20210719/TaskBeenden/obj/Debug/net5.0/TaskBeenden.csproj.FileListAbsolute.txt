@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\bin\Debug\net5.0\TaskBeenden.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\bin\Debug\net5.0\TaskBeenden.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\bin\Debug\net5.0\TaskBeenden.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\bin\Debug\net5.0\TaskBeenden.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\bin\Debug\net5.0\TaskBeenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\bin\Debug\net5.0\ref\TaskBeenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\bin\Debug\net5.0\TaskBeenden.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\obj\Debug\net5.0\TaskBeenden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\obj\Debug\net5.0\TaskBeenden.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\obj\Debug\net5.0\TaskBeenden.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\obj\Debug\net5.0\TaskBeenden.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\obj\Debug\net5.0\TaskBeenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\obj\Debug\net5.0\ref\TaskBeenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\obj\Debug\net5.0\TaskBeenden.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskBeenden\obj\Debug\net5.0\TaskBeenden.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\bin\Debug\net5.0\LiskovSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\bin\Debug\net5.0\LiskovSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\bin\Debug\net5.0\LiskovSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\bin\Debug\net5.0\LiskovSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\bin\Debug\net5.0\LiskovSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\bin\Debug\net5.0\ref\LiskovSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\bin\Debug\net5.0\LiskovSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\obj\Debug\net5.0\LiskovSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\obj\Debug\net5.0\LiskovSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\obj\Debug\net5.0\LiskovSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\obj\Debug\net5.0\LiskovSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\obj\Debug\net5.0\LiskovSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\obj\Debug\net5.0\LiskovSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\obj\Debug\net5.0\ref\LiskovSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\obj\Debug\net5.0\LiskovSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LiskovSample\obj\Debug\net5.0\LiskovSample.genruntimeconfig.cache

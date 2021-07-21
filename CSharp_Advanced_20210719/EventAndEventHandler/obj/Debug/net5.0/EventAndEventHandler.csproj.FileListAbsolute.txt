@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\EventAndEven
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\EventAndEventHandler\obj\Debug\net5.0\ref\EventAndEventHandler.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.pdb
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.csproj.AssemblyReference.cache

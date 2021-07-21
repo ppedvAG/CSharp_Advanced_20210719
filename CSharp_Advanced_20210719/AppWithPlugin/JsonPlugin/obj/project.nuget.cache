@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/BCSUv0+OyrrmliPi0nVPe4CahAmpvLfcAFxKOjEiHr9marpnYDSD9wIwsT1RNK1jURWLY34xIC8Jl5vjff2CQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210719\\CSharp_Advanced_20210719\\AppWithPlugin\\JsonPlugin\\JsonPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\bin\Debug\net5.0\HelloReflections.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\bin\Debug\net5.0\HelloReflections.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\bin\Debug\net5.0\HelloReflections.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\bin\Debug\net5.0\HelloReflections.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\bin\Debug\net5.0\HelloReflections.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\bin\Debug\net5.0\ref\HelloReflections.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\bin\Debug\net5.0\HelloReflections.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\obj\Debug\net5.0\HelloReflections.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\obj\Debug\net5.0\HelloReflections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\obj\Debug\net5.0\HelloReflections.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\obj\Debug\net5.0\HelloReflections.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\obj\Debug\net5.0\HelloReflections.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\obj\Debug\net5.0\HelloReflections.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\obj\Debug\net5.0\ref\HelloReflections.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\obj\Debug\net5.0\HelloReflections.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloReflections\obj\Debug\net5.0\HelloReflections.genruntimeconfig.cache

@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbre
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\obj\Debug\net5.0\ref\ThreadsAbbrechen.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\obj\Debug\net5.0\ThreadsAbbrechen.pdb
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\obj\Debug\net5.0\ThreadsAbbrechen.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\ThreadsAbbrechen\obj\Debug\net5.0\ThreadsAbbrechen.csproj.AssemblyReference.cache

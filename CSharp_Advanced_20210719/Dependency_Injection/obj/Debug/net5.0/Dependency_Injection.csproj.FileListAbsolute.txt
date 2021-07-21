@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\bin\Debug\net5.0\Dependency_Injection.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\bin\Debug\net5.0\Dependency_Injection.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\bin\Debug\net5.0\Dependency_Injection.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\bin\Debug\net5.0\Dependency_Injection.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\bin\Debug\net5.0\Dependency_Injection.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\bin\Debug\net5.0\ref\Dependency_Injection.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\bin\Debug\net5.0\Dependency_Injection.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\obj\Debug\net5.0\Dependency_Injection.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\obj\Debug\net5.0\Dependency_Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\obj\Debug\net5.0\Dependency_Injection.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\obj\Debug\net5.0\Dependency_Injection.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\obj\Debug\net5.0\Dependency_Injection.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\obj\Debug\net5.0\Dependency_Injection.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\obj\Debug\net5.0\ref\Dependency_Injection.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\obj\Debug\net5.0\Dependency_Injection.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Dependency_Injection\obj\Debug\net5.0\Dependency_Injection.genruntimeconfig.cache

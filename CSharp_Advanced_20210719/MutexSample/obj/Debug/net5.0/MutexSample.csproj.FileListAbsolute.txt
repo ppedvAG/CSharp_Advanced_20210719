@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\bin\Debug\net5.0\MutexSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\bin\Debug\net5.0\MutexSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\bin\Debug\net5.0\MutexSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\bin\Debug\net5.0\MutexSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\bin\Debug\net5.0\MutexSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\bin\Debug\net5.0\ref\MutexSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\bin\Debug\net5.0\MutexSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\obj\Debug\net5.0\MutexSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\obj\Debug\net5.0\MutexSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\obj\Debug\net5.0\MutexSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\obj\Debug\net5.0\MutexSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\obj\Debug\net5.0\MutexSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\obj\Debug\net5.0\ref\MutexSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\obj\Debug\net5.0\MutexSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MutexSample\obj\Debug\net5.0\MutexSample.genruntimeconfig.cache

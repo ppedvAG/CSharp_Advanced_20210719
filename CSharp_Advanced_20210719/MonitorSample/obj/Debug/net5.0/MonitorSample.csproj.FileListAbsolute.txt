@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\bin\Debug\net5.0\MonitorSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\bin\Debug\net5.0\MonitorSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\bin\Debug\net5.0\MonitorSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\bin\Debug\net5.0\MonitorSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\bin\Debug\net5.0\MonitorSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\bin\Debug\net5.0\ref\MonitorSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\bin\Debug\net5.0\MonitorSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\obj\Debug\net5.0\MonitorSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\obj\Debug\net5.0\MonitorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\obj\Debug\net5.0\MonitorSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\obj\Debug\net5.0\MonitorSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\obj\Debug\net5.0\MonitorSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\obj\Debug\net5.0\MonitorSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\obj\Debug\net5.0\ref\MonitorSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\obj\Debug\net5.0\MonitorSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\MonitorSample\obj\Debug\net5.0\MonitorSample.genruntimeconfig.cache

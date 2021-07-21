@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\bin\Debug\net5.0\TaskFactorySample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\bin\Debug\net5.0\TaskFactorySample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\bin\Debug\net5.0\TaskFactorySample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\bin\Debug\net5.0\TaskFactorySample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\bin\Debug\net5.0\TaskFactorySample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\bin\Debug\net5.0\ref\TaskFactorySample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\bin\Debug\net5.0\TaskFactorySample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\obj\Debug\net5.0\TaskFactorySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\obj\Debug\net5.0\TaskFactorySample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\obj\Debug\net5.0\TaskFactorySample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\obj\Debug\net5.0\TaskFactorySample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\obj\Debug\net5.0\TaskFactorySample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\obj\Debug\net5.0\ref\TaskFactorySample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\obj\Debug\net5.0\TaskFactorySample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\TaskFactorySample\obj\Debug\net5.0\TaskFactorySample.genruntimeconfig.cache

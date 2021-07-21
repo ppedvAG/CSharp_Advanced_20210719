@@ -3,3 +3,14 @@ C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\obj\Debug\net5.0\SharpVersion73.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\obj\Debug\net5.0\SharpVersion73.AssemblyInfo.cs
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\obj\Debug\net5.0\SharpVersion73.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\bin\Debug\net5.0\SharpVersion73.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\bin\Debug\net5.0\SharpVersion73.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\bin\Debug\net5.0\SharpVersion73.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\bin\Debug\net5.0\SharpVersion73.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\bin\Debug\net5.0\SharpVersion73.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\bin\Debug\net5.0\ref\SharpVersion73.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\bin\Debug\net5.0\SharpVersion73.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\obj\Debug\net5.0\SharpVersion73.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\obj\Debug\net5.0\ref\SharpVersion73.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\obj\Debug\net5.0\SharpVersion73.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion73\obj\Debug\net5.0\SharpVersion73.genruntimeconfig.cache

@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\obj\Debug\net5.0\ref\HelloThreads.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\obj\Debug\net5.0\HelloThreads.pdb
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\obj\Debug\net5.0\HelloThreads.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\HelloThreads\obj\Debug\net5.0\HelloThreads.csproj.AssemblyReference.cache

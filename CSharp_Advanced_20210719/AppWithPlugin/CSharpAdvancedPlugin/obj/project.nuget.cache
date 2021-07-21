@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Od/h9gJbj4xLMCNCpKymAP2X4NGi6e7F6XvwXht+QhgC1xi1XwC8YkFVvnCjpB+3zW6kaiKrB/nGIvwiZMWqOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210719\\CSharp_Advanced_20210719\\AppWithPlugin\\CSharpAdvancedPlugin\\CSharpAdvancedPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

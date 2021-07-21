@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Delegates_mi
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Delegates_mit_Callback\obj\Debug\net5.0\ref\Delegates_mit_Callback.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Delegates_mit_Callback\obj\Debug\net5.0\Delegates_mit_Callback.pdb
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Delegates_mit_Callback\obj\Debug\net5.0\Delegates_mit_Callback.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\Delegates_mit_Callback\obj\Debug\net5.0\Delegates_mit_Callback.csproj.AssemblyReference.cache

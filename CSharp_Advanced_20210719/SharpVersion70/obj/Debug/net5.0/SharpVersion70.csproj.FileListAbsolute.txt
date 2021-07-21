@@ -1,5 +1,15 @@
-C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\obj\Debug\net5.0\SharpVersion70.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\obj\Debug\net5.0\SharpVersion70.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\obj\Debug\net5.0\SharpVersion70.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\obj\Debug\net5.0\SharpVersion70.AssemblyInfo.cs
 C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\obj\Debug\net5.0\SharpVersion70.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\bin\Debug\net5.0\SharpVersion70.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\bin\Debug\net5.0\SharpVersion70.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\bin\Debug\net5.0\SharpVersion70.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\bin\Debug\net5.0\SharpVersion70.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\bin\Debug\net5.0\SharpVersion70.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\bin\Debug\net5.0\ref\SharpVersion70.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\bin\Debug\net5.0\SharpVersion70.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\obj\Debug\net5.0\SharpVersion70.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\obj\Debug\net5.0\ref\SharpVersion70.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\obj\Debug\net5.0\SharpVersion70.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\SharpVersion70\obj\Debug\net5.0\SharpVersion70.genruntimeconfig.cache
