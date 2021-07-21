@@ -117,9 +117,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsContstraintsSample"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul008_Reflections", "Modul008_Reflections", "{88B144AE-0A31-446A-BCFE-7F1FA0BE9977}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrumpTaschenrechner", "TrumpTaschenrechner\TrumpTaschenrechner.csproj", "{05581D76-9983-4A01-80EA-E9BB3475BF1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrumpTaschenrechner", "TrumpTaschenrechner\TrumpTaschenrechner.csproj", "{05581D76-9983-4A01-80EA-E9BB3475BF1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloReflections", "HelloReflections\HelloReflections.csproj", "{182F9031-686A-43C1-8BE2-CCE8B77620EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloReflections", "HelloReflections\HelloReflections.csproj", "{182F9031-686A-43C1-8BE2-CCE8B77620EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul009_LinqLambda", "Modul009_LinqLambda", "{DD70A2CA-401B-42E0-98E6-EE5F6D1128DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqAndLambdaSamples", "LinqAndLambdaSamples\LinqAndLambdaSamples.csproj", "{6ABECA6C-28E1-46E6-8A39-344173B07C08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +283,10 @@ Global
 		{182F9031-686A-43C1-8BE2-CCE8B77620EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{182F9031-686A-43C1-8BE2-CCE8B77620EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{182F9031-686A-43C1-8BE2-CCE8B77620EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABECA6C-28E1-46E6-8A39-344173B07C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABECA6C-28E1-46E6-8A39-344173B07C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABECA6C-28E1-46E6-8A39-344173B07C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABECA6C-28E1-46E6-8A39-344173B07C08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -331,6 +339,7 @@ Global
 		{7B1F2FC9-F857-45BF-856D-2E727D3412B2} = {1EBB3CD4-A918-42C9-B87E-51C71D77EB9D}
 		{05581D76-9983-4A01-80EA-E9BB3475BF1D} = {88B144AE-0A31-446A-BCFE-7F1FA0BE9977}
 		{182F9031-686A-43C1-8BE2-CCE8B77620EA} = {88B144AE-0A31-446A-BCFE-7F1FA0BE9977}
+		{6ABECA6C-28E1-46E6-8A39-344173B07C08} = {DD70A2CA-401B-42E0-98E6-EE5F6D1128DC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BE602E6-023A-44F6-886E-0F1C9C319C4C}

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\bin\Debug\net5.0\LinqAndLambdaSamples.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\bin\Debug\net5.0\LinqAndLambdaSamples.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\bin\Debug\net5.0\LinqAndLambdaSamples.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\bin\Debug\net5.0\LinqAndLambdaSamples.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\bin\Debug\net5.0\LinqAndLambdaSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\bin\Debug\net5.0\ref\LinqAndLambdaSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\bin\Debug\net5.0\LinqAndLambdaSamples.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\obj\Debug\net5.0\LinqAndLambdaSamples.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\obj\Debug\net5.0\LinqAndLambdaSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\obj\Debug\net5.0\LinqAndLambdaSamples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\obj\Debug\net5.0\LinqAndLambdaSamples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\obj\Debug\net5.0\LinqAndLambdaSamples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\obj\Debug\net5.0\LinqAndLambdaSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\obj\Debug\net5.0\ref\LinqAndLambdaSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\obj\Debug\net5.0\LinqAndLambdaSamples.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210719\CSharp_Advanced_20210719\LinqAndLambdaSamples\obj\Debug\net5.0\LinqAndLambdaSamples.genruntimeconfig.cache

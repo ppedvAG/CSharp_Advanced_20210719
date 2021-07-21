@@ -4,3 +4,6 @@ Repository Pattern:
 - https://github.com/SharpRepository/SharpRepository/blob/develop/SharpRepository.Repository/IRepositoryBase.cs -> Reference zu ISP in bestehenden Projekt
 - https://programmingwithmosh.com/net/common-mistakes-with-the-repository-pattern/
 
+
+- https://linqsamples.com/ -> 101 Linq Samples
+

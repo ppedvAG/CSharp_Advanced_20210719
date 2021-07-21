@@ -13,8 +13,8 @@ Dienstag:
 - [x] Generics 
 - [ ] 
 Mittwoch: 
-- [ ] Reflections 
-- [ ] Plugin-Pattern 
+- [x] Reflections 
+- [x] Plugin-Pattern 
 - [ ] Linq / Lambda 
 - [ ] Anonyme Typen + dynamische Typen
 - [ ] Serialisierung
