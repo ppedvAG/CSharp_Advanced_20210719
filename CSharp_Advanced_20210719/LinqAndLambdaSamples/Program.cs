@@ -48,7 +48,7 @@ namespace LinqAndLambdaSamples
 
 
             //Pagging -> Skip / Take
-
+            //https://code-maze.com/paging-aspnet-core-webapi/
             int pagingNumber = 1; //Aktuell Pagging-Seite 
             int pagingSize = 3; //Wieiviele Datensätze werden pro Seite angezeigt 
 

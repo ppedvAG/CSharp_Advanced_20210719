@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KreditLimit>500000</KreditLimit>
+  <Vorname>Max</Vorname>
+  <Nachname>Mustermann</Nachname>
+  <Alter>63</Alter>
+  <Kontostand>100000</Kontostand>
+</Person>
