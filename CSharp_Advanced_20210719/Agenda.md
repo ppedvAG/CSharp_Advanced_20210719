@@ -17,9 +17,9 @@ Mittwoch:
 - [x] Plugin-Pattern 
 - [x] Linq / Lambda 
 - [x] Anonyme Typen + dynamische Typen
-- [ ] Serialisierung
-- [ ] Erweiterungsmethoden 
-- [ ] Operatoren
+- [x] Serialisierung
+- [x] Erweiterungsmethoden 
+- [x] Operatoren
 
 
 
